@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zeussssssss
-- 👀 I’m interested in Web and Game Development right now!
+- 👀 I’m interested in Web Development right now!
 - 🌱 Currently learning ReactJS! 
 - 📫 How to reach me: Email Me: adityakumar090302@gmail.com!
 
